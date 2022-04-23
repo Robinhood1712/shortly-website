@@ -309,7 +309,7 @@ nav {
     z-index: 1;
 }
 
-.boost-section::before {
+/* .boost-section::before {
     content: '';
     position: absolute;
     top: 0;
@@ -318,7 +318,7 @@ nav {
     height: 100%;
     background-image: url(./images/bg-boost-desktop.svg);
     z-index: -1;
-}
+} */
 
 .boost {
     display: block;
